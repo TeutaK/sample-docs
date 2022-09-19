@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro test
+# Tutorial Intro test test from github
 
 <PartialExample name="Sebastien" />;
 
